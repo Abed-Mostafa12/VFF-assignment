@@ -1,0 +1,19 @@
+
+laser_scan_topic: "/scan"
+max_obstacle_distance: 5.0
+min_obstacle_distance: 0.2
+
+
+attractive_gain: 1.0
+
+
+repulsive_gain: 10.0
+repulsive_threshold: 1.0
+
+
+max_linear_velocity: 0.5
+max_angular_velocity: 1.0
+
+
+debug_enabled: true
+debug_topic: "/vff_debug"
